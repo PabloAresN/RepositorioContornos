@@ -1,2 +1,6 @@
 Esto es un nuevo fichero.
 Escrito en local.
+
+Modificación desde Github 1
+Modificación desde Github 2
+Modificación desde Github 3
